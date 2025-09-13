@@ -1,0 +1,12 @@
+{
+    "rtsp stream":"",
+    "video":"",
+	"front camera":"0",
+	"yolo model":"yolo11n.pt",
+    "conf":0.25,
+    "iou":0.7,
+	"imgsz":640,
+	"classes":[],
+	"box_center": 0,
+	"IN_FPS":"15"
+}
